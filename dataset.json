@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US",
+  "export_job_id": "0e3da6da-fe9f-431e-ba14-87507b1bdf5c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 305821,
+  "location_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-washington-arlington-alexandria-metro-area-dc-va-md-sample-305821",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/305821/beamstation_305821_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
+  "sample_pct": 7.89,
+  "sample_records": 3,
+  "sample_sha256": "b3c991b016dcee2f79f44d05ee4b88935494e7026ca124e91bddc31e63abf1b9",
+  "sample_size_bytes": 27737,
+  "total_records": 38,
+  "updated_at": "2026-04-08T07:23:36.842316+00:00"
+}
