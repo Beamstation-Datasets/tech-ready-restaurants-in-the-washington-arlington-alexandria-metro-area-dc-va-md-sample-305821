@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `305821` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 3 records (10.0%) |
-| Last export | 2026-04-15T10:45:20.633140+00:00 |
+| Full dataset size | 19 records |
+| Free sample size | 1 records (5.26%) |
+| Last export | 2026-04-22T18:41:42.155828+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-washington-arlington-alexandria-metro-area-dc-va-md-sample-305821/releases/download/sample-latest/beamstation_305821_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
