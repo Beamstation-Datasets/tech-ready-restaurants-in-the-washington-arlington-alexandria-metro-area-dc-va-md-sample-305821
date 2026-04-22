@@ -1,12 +1,12 @@
 {
-  "export_job_id": "78fb9d92-e23b-46bd-8fb2-c3b4139642d5",
+  "export_job_id": "8c85105d-ce67-4b40-b9c9-74215d519a7a",
   "id_short": 305821,
-  "published_at": "2026-04-19T07:48:41Z",
+  "published_at": "2026-04-22T19:31:38Z",
   "repo_name": "tech-ready-restaurants-in-the-washington-arlington-alexandria-metro-area-dc-va-md-sample-305821",
   "sample_asset_name": "beamstation_305821_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/305821/beamstation_305821_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "5bfa8520f82bbdd7875a678c879c84a5b6e27ed928d51c8f3c3ec946c2156a1f",
-  "sample_size_bytes": 27720,
-  "total_records": 30
+  "sample_records": 1,
+  "sample_sha256": "add554879fbd8391c70ad077afefdbd7e9def2057b598e5b57e515a01d54a4b2",
+  "sample_size_bytes": 20249,
+  "total_records": 19
 }
